@@ -1,0 +1,65 @@
+export default `<!DOCTYPE html>
+<html lang="en">
+<head><base href="/smart-step-ai-v1/">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartStep AI - Candidate Assessment</title>
+<link rel="stylesheet" href="styles-C3PILA3Z.css"></head>
+<body><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
+</script>
+    <header>
+        <img src="assets/logo.jpg" alt="SmartStep Logo">
+        <h1>SmartStep AI</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Pricing</a>
+        <a href="#">Premium</a>
+        <a href="#">Contact</a>
+    </nav>
+    <div class="hero">
+        <h2>AI-Powered Interview Assessment</h2>
+        <p>SmartStep AI helps evaluate candidates based on multiple interview criteria using advanced AI analytics.</p>
+    </div>
+    <section class="modules">
+        <div class="module">
+            <h3>Body Language</h3>
+            <p>Analyzes gestures, posture, and facial expressions to assess confidence and engagement.</p>
+        </div>
+        <div class="module">
+            <h3>Eye Contact</h3>
+            <p>Evaluates eye movement patterns to determine attentiveness and confidence levels.</p>
+        </div>
+        <div class="module">
+            <h3>Communication Skills</h3>
+            <p>Measures clarity, tone, and articulation in verbal responses.</p>
+        </div>
+        <div class="module">
+            <h3>Q&A Performance</h3>
+            <p>Assesses response accuracy and relevance to interview questions.</p>
+        </div>
+        <div class="module">
+            <h3>Optional Questions</h3>
+            <p>Allows custom questions to tailor candidate evaluation.</p>
+        </div>
+        <div class="module">
+            <h3>Theory Knowledge</h3>
+            <p>Tests theoretical understanding of domain-specific knowledge.</p>
+        </div>
+        <div class="module">
+            <h3>Answer Assessment</h3>
+            <p>Uses AI to score responses based on correctness, depth, and coherence.</p>
+        </div>
+        <div class="module">
+            <h3>Behavioral Analysis</h3>
+            <p>Analyzes emotional and behavioral cues to determine professional readiness.</p>
+        </div>
+    </section>
+    <app-root></app-root>
+    <footer>
+        <p>&copy; 2025 SmartStep AI. All Rights Reserved.</p>
+    </footer>
+<script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-NHTQZ27N.js" type="module"></script></body>
+</html>
+`;
